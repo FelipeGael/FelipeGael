@@ -1,9 +1,9 @@
-### Olá! Eu sou o Felipe, sou estudante de programação < 🚀 🕹️ 💻 
+### Olá! Eu sou o Felipe, sou estudante de programação < 🚀 🕹️ 💻 </>
 
 - 💡A informática está interligada ao mundo sobre as reações intergalaxias! 💡
 - 📚 Estou aprendendo : front- end back- end .
-- 📫 Contate- me:felipe.felipe505505@gmail.com .
-- 🤖 Pronouns:ele\ dele .
+- 📫 Contate- me: felipe.felipe505505@gmail.com .
+- 🤖 Pronouns: ele\dele .
 - ⚡ Fato sobre mim: Eu amo Star Wars .
 
 <div>
